@@ -1,0 +1,14 @@
+  <ul>
+            <li class="mainNavigationListItem">
+                <a href="">Home</a>
+            </li>
+            <li class="mainNavigationListItem">
+                <a href="">Collection #1</a>
+            </li>
+            <li class="mainNavigationListItem">
+                <a href="">Collection #2</a>
+            </li>
+            <li class="mainNavigationListItem">
+                <a href="">Collection #3</a>
+            </li>
+     </ul>
